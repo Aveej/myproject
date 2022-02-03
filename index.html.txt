@@ -1,9 +1,8 @@
-<<<<<<< Updated upstream
+
 Index file
 branch
 new lines added
 
-=======
 <html>
 <head><title>welcome<title>
 </head>
@@ -11,4 +10,4 @@ new lines added
   <h1> this is my page<h1>
 </body>
 </html>
->>>>>>> Stashed changes
+
